@@ -1,0 +1,25 @@
+Everest;Nepal;8848
+K2;Pakistan;8611
+Kangchenjunga;India/Nepal;8586
+Lhotse;Nepal;8516
+Makalu;Nepal;8481
+Cho Oyu;Nepal/Tibet;8188
+Dhauligiri;Nepal;8167
+Manaslu;Nepal;8163
+Nanga Parbat;Pakistan;8126
+Annapurna;Nepal;8091
+Gasherbrum I;Pakistan/China;8080
+Broad Peak;Pakistan;8051
+Gasherbrum II;Pakistan/China;8035
+Shishapangma;Tibet;8027
+Gyachung Kang;Nepal/Tibet;7952
+Changtse;Nepal/Tibet;7550
+Pumori;Nepal;7161
+Kangtega;Nepal;6782
+Ama Dablam;Nepal;6812
+Fitz Roy;Argentina;3405
+Hoverla;Ukraine;2061
+Pip Ivan;Ukraine;2028
+Petros;Ukraine;2020
+Brebeneskul;Ukraine;2038
+Hemba;Ukraine;1913

@@ -1,0 +1,11 @@
+[Unit]
+Description=API Server Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/apiServer.sh
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target

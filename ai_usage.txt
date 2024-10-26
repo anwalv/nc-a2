@@ -1,0 +1,4 @@
+# AI Usage in Project
+I used artificial intelligence to generate most of the code for the scripts (which I then spent 5 days trying to fix). He also wrote the introductory part
+ for the README file. I also want to note that I was unable to fix the error why the command 
+"socat -v TCP-LISTEN:4242,fork,reuseaddr EXEC:/home/ubuntu/apiServer.sh" starts it correctly, but configureServer.sh does not start it.
